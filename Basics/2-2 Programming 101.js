@@ -10,7 +10,7 @@ console.log(fullname)
 // if you are runnig any js code, it can only be exeuted in js engine , js engine understand yor code and executes it line by line
 
 
-// array   0  1  2    3  4
+// array   0  1   2   3  4
 let arr = [2,536,353,643,3]
 console.log(arr)
 console.log(arr[3])
