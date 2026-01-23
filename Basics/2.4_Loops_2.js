@@ -24,4 +24,15 @@ function negativeCount(arr){
 let arr = [0,-3,53,6,-1,9,-3]
 console.log(negativeCount(arr))
 
-//
+// Write a function that returns the largest element in a array
+function largestInArray(arr){
+    max=arr[0]
+    for(let i=0;i<arr.length;i++){
+        if(arr[i]>max){
+            max = arr[i];
+        }
+    }
+    return max;
+}
+
+console.log(largestInArray(arr))
