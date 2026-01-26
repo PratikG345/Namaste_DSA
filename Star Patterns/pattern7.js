@@ -8,7 +8,7 @@ for(let i=0;i<n;i++){
             switchs = 1
         }
         else{
-            switchs = 0
+            switchs = 0;
         }
     }
     console.log(row)
