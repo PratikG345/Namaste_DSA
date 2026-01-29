@@ -12,7 +12,3 @@ function countDigits(num){
 }
 
 console.log(countDigits(0))
-
-// let n = ["Pratik","Soham"]
-// console.log(n[0][2])
-// console.log(n[1][3])
